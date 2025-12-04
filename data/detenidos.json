@@ -1,0 +1,23 @@
+{
+  "genero": [
+    {
+      "HOMBRES": 14,
+      "MUJERES": 2
+    }
+  ],
+  "nacionalidad": [
+    {
+      "VENEZUELA": 5,
+      "PERÚ": 11
+    }
+  ],
+  "situacion": [
+    {
+      "PRISION PREVENTIVA": 9,
+      "LIBERTAD EN SEDÉ POLICIAL": 3,
+      "SENTENCIADO": 2,
+      "LIBERTAD EN SEDÉ JUDICIAL": 1,
+      "EN INVESTIGACIÓN": 1
+    }
+  ]
+}

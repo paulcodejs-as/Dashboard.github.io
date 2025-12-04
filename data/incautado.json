@@ -1,0 +1,57 @@
+{
+  "vehiculos": {
+    "menores": 4,
+    "mayores": 1,
+    "total": 5
+  },
+  "celulares": {
+    "total": 16
+  },
+  "dinero": {
+    "total": 30350
+  },
+  "DROGAS POR ENVOLTORIOS": [
+    {
+      "droga": "CC",
+      "cantidad": 1
+    },
+    {
+      "droga": "PBC",
+      "cantidad": 28
+    },
+    {
+      "droga": "MARIHUANA",
+      "cantidad": 3
+    },
+    {
+      "droga": "TUSI",
+      "cantidad": 1
+    }
+  ],
+  "ARMAS DE FUEGO": [
+    {
+      "tipo": "SUBFUSIL",
+      "cantidad": 1
+    },
+    {
+      "tipo": "PISTOLAS",
+      "cantidad": 1
+    }
+  ],
+  "CARGADORES": {
+    "total": 6
+  },
+  "EXPLOSIVOS": [
+    {
+      "tipo": "GRANADAS",
+      "cantidad": 1
+    },
+    {
+      "tipo": "DINAMITAS",
+      "cantidad": 2
+    }
+  ],
+  "MUNICIONES": {
+    "total": 101
+  }
+}
